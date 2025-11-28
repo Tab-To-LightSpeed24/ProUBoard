@@ -17,15 +17,15 @@ ProUBoard provides a centralized hub for team and work management:
 
 This setup lets the app behave like a full-stack system while remaining easy to run and review.
 
-<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/bdb16c7a-a05c-4758-bce9-bf73af6f1317" />
+![WhatsApp Image 2025-11-28 at 23 24 20_b640a78f](https://github.com/user-attachments/assets/5582843f-a880-4fb1-ad01-390b79ca3020)
 
-<img width="1916" height="856" alt="image" src="https://github.com/user-attachments/assets/d25fab7a-2126-4ddd-a873-72af09b477d6" />
+![WhatsApp Image 2025-11-28 at 23 24 24_a965594a](https://github.com/user-attachments/assets/6224c642-d5d7-46a6-b18d-0a202974277c)
 
-<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/3ffe6d45-3049-421e-b43c-4bd30f98d887" />
+![WhatsApp Image 2025-11-28 at 23 24 28_8c91f970](https://github.com/user-attachments/assets/b1714eb5-b3a4-431d-b14a-898ec4f5b71e)
 
-<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/8f3319fb-31f0-484e-879b-e073d536dd4f" />
+![WhatsApp Image 2025-11-28 at 23 24 32_5decb13a](https://github.com/user-attachments/assets/f791467e-fa36-4b1e-9aa6-3f81f296b9a4)
 
-<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/fb8bcc88-349f-47cb-859c-5e52b1cd645b" />
+![WhatsApp Image 2025-11-28 at 23 24 36_f8352909](https://github.com/user-attachments/assets/434d326b-8ce3-4305-b66b-d5e3ae3a74e4)
 
 ---
 
