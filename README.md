@@ -4,7 +4,7 @@ ProUBoard is a business-themed dashboard application that helps managers track e
 
 It is designed as a **single-page "full-stack" experience running entirely in the browser**, with a simulated backend and persistent storage using `localStorage`. The goal of this project is to showcase **architecture, code organization, and product thinking** rather than heavy infrastructure.
 
-Deployed on Vercel : https://track3-fullstack-web.vercel.app/
+Deployed on Vercel : https://pro-u-board.vercel.app/
 ---
 
 ## 🚀 Overview
